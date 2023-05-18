@@ -1,0 +1,18 @@
+{
+  "photos": {
+    "0": {
+      "id": "0" ,
+      "imgurl" : "https://dkstatics-public.digikala.com/digikala-adservice-banners/916622f4ffbafe82d31a292c613b3194c65862f7_1684328156.jpg"
+    },
+    "1": {"id": "1" ,
+      "imgurl" : "https://dkstatics-public.digikala.com/digikala-adservice-banners/8867713b87e4192cd52ff1aca09e4ffa29805180_1684134704.jpg"},
+    "2": {"id": "2" ,
+      "imgurl" : "https://dkstatics-public.digikala.com/digikala-adservice-banners/54e16c5c06ec87ca57c93623c1abe970c229f108_1684164518.jpg"},
+    "3": {"id": "3" ,
+      "imgurl" : "https://dkstatics-public.digikala.com/digikala-adservice-banners/4e73de4d39ae3716ca96368105deedbc6c9f5614_1684225061.jpg"},
+    "4": {"id": "4" ,
+      "imgurl" : "https://dkstatics-public.digikala.com/digikala-adservice-banners/37de9108420af11fdc4b2bb65c3c70c140826d84_1684300191.jpg"},
+    "5": {"id": "5" ,
+      "imgurl" : "https://dkstatics-public.digikala.com/digikala-adservice-banners/1a82115c440f7baa3e94c5d03bcd86caebdce36d_1684309047.jpg"}
+  }
+}
